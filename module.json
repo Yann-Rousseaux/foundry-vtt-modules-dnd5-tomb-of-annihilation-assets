@@ -1,0 +1,35 @@
+{   
+   "name": "dnd5-tomb-of-annihilation-campaign-assets",   
+   "title": "Tomb of Annihilation Assets",   
+   "description": "Module contenant tous les PNJ, Items et Scènes de la campagne Tomb of Annihilation",   
+   "author": "rousseauxyannarnaud@gmail.com",
+   "version": "1.0.0",
+   "minimumCoreVersion": "0.5.0",
+   "compatibleCoreVersion":"0.6.0",
+   "packs": [
+    {
+      "name": "items",
+      "label": "My Items",
+      "path": "packs/items.db",
+      "entity": "Item",
+      "module": "SharedData"
+    },
+    {
+      "name": "scenes",
+      "label": "My Scenes",
+      "path": "packs/scenes.db",
+      "entity": "Scene",
+      "module": "SharedData"
+    },
+    {
+      "name": "actors",
+      "label": "My Actors",
+      "path": "packs/actors.db",
+      "entity": "Actor",
+      "module": "SharedData"
+    }
+  ],
+  "url": "https://github.com/Yann-Rousseaux/foundry-vtt-modules-dnd5-tomb-of-annihilation-campaign-assets",
+  "manifest": "https://github.com/Yann-Rousseaux/foundry-vtt-modules-dnd5-tomb-of-annihilation-campaign-assets/module.json",
+  "download": "https://github.com/Yann-Rousseaux/foundry-vtt-modules-dnd5-tomb-of-annihilation-campaign-assets/dnd5-tomb-of-annihilation-campaign-assets.zip"
+ }
