@@ -30,6 +30,6 @@
     }
   ],
   "url": "https://github.com/Yann-Rousseaux/foundry-vtt-modules-dnd5-tomb-of-annihilation-campaign-assets",
-  "manifest": "https://github.com/Yann-Rousseaux/foundry-vtt-modules-dnd5-tomb-of-annihilation-campaign-assets/module.json",
-  "download": "https://github.com/Yann-Rousseaux/foundry-vtt-modules-dnd5-tomb-of-annihilation-campaign-assets/dnd5-tomb-of-annihilation-campaign-assets.zip"
+  "manifest": "https://raw.githubusercontent.com/Yann-Rousseaux/foundry-vtt-modules-dnd5-tomb-of-annihilation-campaign-assets/master/module.json",
+  "download": "https://github.com/Yann-Rousseaux/foundry-vtt-modules-dnd5-tomb-of-annihilation-campaign-assets/raw/master/archives/dnd5-tomb-of-annihilation-campaign-assets.zip"
  }
